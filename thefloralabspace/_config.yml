@@ -1,0 +1,26 @@
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: The Flora Lab 
+email: thefloralabspace@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A space to document plant experiments and profiles.
+baseurl: "/"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
